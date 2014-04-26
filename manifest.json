@@ -1,0 +1,13 @@
+{
+  "name": "Page Bench",
+  "description": "Page load benchmark",
+  "version": "0.0.1",
+  "app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  },
+  "permissions": [
+    "webview"
+  ]
+}
